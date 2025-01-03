@@ -7,6 +7,12 @@ struct Book{
     string title;
     string author;
     int quantity;
+    //mkjjh
+    ///sxjkxbxjsjj
+    //jvjvxjdj
+    ///hdxbkhsqbhqxbj,bjhexbjh
+    ///jccxjhsxvjhsbjj
+    wajidddddddddddddddddddd
 
 };
 void  addbook(vector<Book>&books);
