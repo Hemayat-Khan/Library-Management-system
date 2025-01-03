@@ -12,7 +12,8 @@ struct Book{
     //jvjvxjdj
     ///hdxbkhsqbhqxbj,bjhexbjh
     ///jccxjhsxvjhsbjj
-    wajidddddddddddddddddddd
+    wajiddddddddddddddd222222222ddddd
+
 
 };
 void  addbook(vector<Book>&books);
